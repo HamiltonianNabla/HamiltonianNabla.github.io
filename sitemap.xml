@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite-url/blogs/%E6%89%B9%E6%B3%A8%E6%96%B9%E6%B3%95/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/blogs/%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%BC%80%E6%94%BE%E5%95%A6/</loc>
     
     <lastmod>2021-09-21</lastmod>
@@ -74,7 +81,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -82,28 +89,28 @@
   
   <url>
     <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E7%AB%99%E5%86%85%E9%87%8D%E5%A4%A7%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,14 +119,14 @@
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/%E7%AB%99%E5%86%85%E9%87%8D%E5%A4%A7%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2021-09-21</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
