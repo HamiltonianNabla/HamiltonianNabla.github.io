@@ -2,28 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/blogs/%E6%89%B9%E6%B3%A8%E6%96%B9%E6%B3%95/</loc>
+    <loc>http://yoursite-url/undefined/saves/</loc>
+    
+    <lastmod>2021-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/%E6%89%B9%E6%B3%A8%E6%96%B9%E6%B3%95/</loc>
     
     <lastmod>2021-10-06</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/blogs/%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%BC%80%E6%94%BE%E5%95%A6/</loc>
+    <loc>http://yoursite-url/cn/%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%BC%80%E6%94%BE%E5%95%A6/</loc>
     
     <lastmod>2021-09-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/blogs/newbg/</loc>
+    <loc>http://yoursite-url/cn/newbg/</loc>
     
     <lastmod>2021-09-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/blogs/Hey!it%20is%20my%20first%20blog/</loc>
+    <loc>http://yoursite-url/cn/Hey!it%20is%20my%20first%20blog/</loc>
     
     <lastmod>2021-09-19</lastmod>
     
@@ -81,7 +88,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2021-10-09</lastmod>
+    <lastmod>2021-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,28 +96,35 @@
   
   <url>
     <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-10-09</lastmod>
+    <lastmod>2021-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-10-09</lastmod>
+    <lastmod>2021-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-10-09</lastmod>
+    <lastmod>2021-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E7%AB%99%E5%86%85%E9%87%8D%E5%A4%A7%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2021-10-09</lastmod>
+    <lastmod>2021-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E5%AD%98%E6%A1%A3%E9%9B%86%E5%90%88/</loc>
+    <lastmod>2021-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,14 +133,21 @@
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-10-09</lastmod>
+    <lastmod>2021-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/%E7%AB%99%E5%86%85%E9%87%8D%E5%A4%A7%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2021-10-09</lastmod>
+    <lastmod>2021-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E5%AD%98%E6%A1%A3%E9%9B%86%E5%90%88/</loc>
+    <lastmod>2021-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
